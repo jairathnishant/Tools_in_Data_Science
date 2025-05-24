@@ -9,7 +9,7 @@
 > Download the **Stepper** app on your android or iOS mobile and follow below steps -
 1. Sign-up on the app and add your details 
 1. Toggle **Step Counter** button for recording your steps
-2. Choose the *start date* and *end date* for comparison
+2. Choose the *start date* and *end date* for comparisons
 3. Here is the link to app for quick access
 [Stepper](https://github.com/jairathnishant/Tools_in_Data_Science "Stepper App")
 
