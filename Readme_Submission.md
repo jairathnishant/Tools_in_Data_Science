@@ -3,6 +3,7 @@
 ![Markdown logo](https://markdown-here.com/img/iconf256.png)
 
 <p><strong>Finally</strong>, here is the app to track the steps <em>you</em> walk each day and compare it against your competitors for leaderboard creation </p>
+
 ---
 ## Own steps calculation
 > Download the **Stepper** app on your android or iOS mobile and follow below steps -
